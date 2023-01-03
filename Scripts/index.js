@@ -1,7 +1,7 @@
 const form = document.querySelector(".top-banner form");
 const input = document.querySelector(".top-banner input");
 const msg = document.querySelector(".top-banner .msg");
-const list = document.querySelector(".jax-section .cities");
+const list = document.querySelector(".ajax-section .cities");
 const apiKey = "81bfcafd520cf95850fe973b68343bf3";
 
 form.addEventListener("submit", e => {
